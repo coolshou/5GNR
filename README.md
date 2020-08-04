@@ -8,6 +8,8 @@ git clone https://github.com/coolshou/5GNR.git
 cd 5GNR
 git submodule init
 git submodule update
+# update all submodule
+git submodule foreach --recursive git pull origin master
 ```
 
 - Topology:
