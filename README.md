@@ -19,7 +19,14 @@ git submodule update
 ## install:
 
 - gtp5g
+
+  fellow gtp5g/README.md
+
 - free5gc
+
+  fellow free5gc/README.md
+
+- 
 
 
 
