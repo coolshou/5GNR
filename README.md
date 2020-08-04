@@ -12,7 +12,7 @@ git submodule update
 
 - Topology:
 
-![https://github.com/coolshou/5GNR/images/stage2.png]()
+![https://github.com/coolshou/5GNR/blob/master/images/stage2.png]()
 
 - 
 
